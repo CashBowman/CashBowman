@@ -2,12 +2,10 @@
   
 Interests
 - optimization
-- dimensionality reduction
+- generalization
 - deep learning
   
 Currently Learning
-- natural language processing
-- dynamic time warping for kmeans clustering
   
 Contact
 - cashbowman@g.ucla.edu
